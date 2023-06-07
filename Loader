@@ -1,0 +1,12 @@
+--[[
+ .____                  ________ ___.    _____                           __                
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+         \/          \/         \/    \/                \/     \/     \/                   
+          \_Welcome to LuaObfuscator.com   (Alpha 0.2.8) ~  Much Love, Ferib 
+
+]]--
+
+local v0=loadstring(game:HttpGet("https://sirius.menu/rayfield"))();local v1=v0:CreateWindow({Name="Zashi Script Hub - V.1",LoadingTitle="Zashi Script Hub ",LoadingSubtitle="By Gus",ConfigurationSaving={Enabled=true,FolderName="Zashi Hub",FileName="Main"},Discord={Enabled=true,Invite="https://discord.gg/vfdxsKH4",RememberJoins=false},KeySystem=true,KeySettings={Title="Nigger  key",Subtitle="Key System",Note="Join the discord",FileName="Key",SaveKey=false,GrabKeyFromSite=false,Key={"uncleskgens"}}});local v2=v1:CreateTab("Main📝");local v3=v2:CreateSection("Updates🔨");local v4=v2:CreateParagraph({Title="V1 update",Content="🤯Only scripts on the game your playing load"});local v5=v2:CreateLabel("Credits:");local v5=v2:CreateLabel("👑Owner:Gus");local v5=v2:CreateLabel("🔨Developer:Arunn");local v5=v2:CreateLabel("🔨Developer:gs");if (game.PlaceId==(9411607762 -690627695)) then local v6=1350 -(993 + 357) ;local v7;local v8;while true do if (v6==0) then v7=v1:CreateTab("[UPD 1] ANIME TALES⭐[BATTLEPASS]");v8=v7:CreateButton({Name="Blackout4781 Script(OP Chest Farm)",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Blackout4781/Roblox-Scripts/main/AnimeTales"))();end});break;end end end
